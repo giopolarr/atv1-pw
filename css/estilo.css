@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+#todo{
+    background-color: rgb(36, 36, 36);
+    width: 26%;
+    height: auto;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px;
+   
+}
+#imagem{
+    margin-top: 50px;
+    border-radius: 100px;
+}
+.branco{
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+#verde{
+    color: rgb(189, 230, 25);
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+#ul{
+    list-style-type: none;
+  
+}
+#label1{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+     color: white;
+}
+.button{
+    background-color:rgb(51, 51, 51);
+    border:none;
+    border-radius: 8px;
+    width: 80%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 17px;
+    margin-left: 0px;
+    margin-right: 40px;
+}
+.button:hover{
+    background-color: black;
+}
